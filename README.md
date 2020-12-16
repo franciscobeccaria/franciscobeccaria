@@ -8,6 +8,15 @@
 
 <div style="text-align:center"><img src="./Background_github.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
+## Skills: ⚙️
+* HTML
+* CSS (Sass)
+* JS (Vanilla)
+* GIT (GitHub)
+* Firebase
+* npm/yarn
+
+
 ## Soy un Front-End Developer 👨 💻
 
 Actualmente estoy trabajando mis habilidades en React. Después de meses de trabajo considero que tengo buenas bases para empezar a trabajar con cualquier proyecto que requiera HTML, CSS (SASS), JavaScript Vanilla y Firebase.
