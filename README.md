@@ -1,12 +1,12 @@
 # Hola, Soy Francisco Beccaria! 👋
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-%23f89d71?logo=firebase&logoColor=white)
-![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-%23694640?logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=yellow)
+![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=blueviolet)
+![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=9cf)
+![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3&logoColor=blue)
+![Firebase](https://img.shields.io/badge/-Firebase-%23f89d71?logo=firebase&logoColor=orange)
+![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=orange)
+![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=orange)
+![Figma](https://img.shields.io/badge/-Figma-%23694640?logo=figma&logoColor=black)
 
 <div style="text-align:center"><img src="./Background_github.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
