@@ -1,4 +1,4 @@
-# Hi, I´m Francisco Beccaria! 👋
+# Hola, Soy Francisco Beccaria! 👋
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=white)
@@ -8,19 +8,13 @@
 
 <div style="text-align:center"><img src="./Background_github.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
-## I am a Front-End Developer 👨 💻
+## Soy un Front-End Developer 👨 💻
 
-Lawyer reinvented in Front-End developer. After several years of working surrounded by engineers within large tech companies, I decided that I wanted to be one of those people who build things and make it work.
-
-As a judoka, I am a disciplined and methodical person and I always do my work with respect and empathy to my colleagues. Judo also gave me the love of learning and continuous improvement, which has made me keep growing both professionally and as a person in each ney challenge I face.
-
-### Something about me
-
-In my free time I love reading good novels, watching TV shows, traveling and horse riding and motorbikes.
+Actualmente estoy trabajando mis habilidades en React. Después de meses de trabajo considero que tengo buenas bases para empezar a trabajar con cualquier proyecto que requiera HTML, CSS (SASS), JavaScript Vanilla y Firebase.
 
 ### Contact
 
-You can find me on Linkedin and Twitter. You can also send me an email, if you prefer. I am currently looking for a job, so if you are interested in hiring a junior profile, don´t hesitate to contact me ;)
+Puedes encontrarme en LinkedIn o en Twitter. Sino podemos enviarme un email. Actualmente estoy buscando trabajo como Jr. React - Front End.
 
 <a href="https://www.linkedin.com/in/conchaasensiomr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
@@ -36,7 +30,7 @@ You can find me on Linkedin and Twitter. You can also send me an email, if you p
 
 
 <!--
-**conchaasensiomr/conchaasensiomr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**franciscobeccaria/franciscobeccaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
