@@ -9,13 +9,13 @@
 
 <div style="text-align:center"><img src="./Background_github.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
-## Skills ⚙️
+<!--## Skills ⚙️
 * HTML
 * CSS (Sass)
 * JavaScript (Vanilla)
 * GIT (GitHub)
 * Firebase
-* npm/yarn
+* npm/yarn-->
 
 
 ## Soy un Front-End Developer 👨 💻
@@ -26,9 +26,9 @@ Actualmente estoy trabajando mis habilidades en React. Después de meses de trab
 
 Puedes encontrarme en LinkedIn o en Twitter. Sino podemos enviarme un email. Actualmente estoy buscando trabajo como Jr. React - Front End.
 
-<a href="https://www.linkedin.com/in/conchaasensiomr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/franciscobeccaria/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
-<a href="https://twitter.com/conchaasensiomr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/Fran_dev_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a>
 
 <!-- <a href="mailto:conchaasensiomr@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> -->
 
