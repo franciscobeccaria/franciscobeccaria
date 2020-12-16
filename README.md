@@ -30,6 +30,8 @@ You can find me on Linkedin and Twitter. You can also send me an email, if you p
 
 ✉️ fbeccaria24@gmail.com
 
+🌐 franciscobeccaria.com
+
 
 
 
