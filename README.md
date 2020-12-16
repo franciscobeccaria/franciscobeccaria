@@ -24,7 +24,7 @@ Actualmente estoy trabajando mis habilidades en React. Después de meses de trab
 
 ### Contact
 
-Puedes encontrarme en LinkedIn o en Twitter. Sino podemos enviarme un email. Actualmente estoy buscando trabajo como Jr. React - Front End.
+Podes encontrarme en Linkedin o en Twitter, sino, podes enviarme un email. Actualmente estoy buscando trabajo como Jr. Front End (React).
 
 <a href="https://www.linkedin.com/in/francisco-b-5119b3114/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
