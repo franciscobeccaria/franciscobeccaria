@@ -26,7 +26,7 @@ Actualmente estoy trabajando mis habilidades en React. Después de meses de trab
 
 Puedes encontrarme en LinkedIn o en Twitter. Sino podemos enviarme un email. Actualmente estoy buscando trabajo como Jr. React - Front End.
 
-<a href="https://www.linkedin.com/in/franciscobeccaria/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
+<a href="https://ar.linkedin.com/in/francisco-beccaria-42868b189" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
 <a href="https://twitter.com/Fran_dev_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a>
 
