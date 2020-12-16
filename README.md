@@ -1,4 +1,4 @@
-# Hi, I´m Concha Asensio! 👋
+# Hi, I´m Francisco Beccaria! 👋
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=white)
@@ -28,7 +28,7 @@ You can find me on Linkedin and Twitter. You can also send me an email, if you p
 
 <!-- <a href="mailto:conchaasensiomr@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> -->
 
-✉️ conchaasensiomr@gmail.com
+✉️ fbeccaria24@gmail.com
 
 
 
