@@ -6,6 +6,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-%23f89d71?logo=firebase&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-%23694640?logo=figma&logoColor=white)
 
 <div style="text-align:center"><img src="./Background_github.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
