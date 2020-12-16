@@ -6,9 +6,9 @@
 ![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
 
-<div style="text-align:center"><img src="./images/Background_github.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
+<div style="text-align:center"><img src="./Background_github.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
-## I am a Front-End Developer 👩‍💻
+## I am a Front-End Developer 👨 💻
 
 Lawyer reinvented in Front-End developer. After several years of working surrounded by engineers within large tech companies, I decided that I wanted to be one of those people who build things and make it work.
 
