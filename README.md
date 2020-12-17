@@ -1,9 +1,9 @@
 # Hola, Soy Francisco Beccaria! 👋
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=yellow)
-![Sass](https://img.shields.io/badge/-Sass-%23353b35?logo=sass&logoColor=C56394)
+![Sass](https://img.shields.io/badge/-Sass-%23748074?logo=sass&logoColor=C56394)
 ![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=9cf)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-%23f89d71?logo=firebase&logoColor=orange)
+![Firebase](https://img.shields.io/badge/-Firebase-%23353b35?logo=firebase&logoColor=orange)
 ![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=EC5E26)
 ![Figma](https://img.shields.io/badge/-Figma-%23694640?logo=figma&logoColor=black)
