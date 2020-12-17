@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23353b35?logo=firebase&logoColor=orange)
 ![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=orange)
-![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23748074?logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-%23694640?logo=figma&logoColor=white)
 
 <div style="text-align:center"><img src="./Background_github.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
