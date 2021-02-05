@@ -21,11 +21,17 @@
 
 ## Soy un Front-End Developer 👨 💻
 
-Actualmente estoy trabajando mis habilidades en React. Después de meses de trabajo considero que tengo buenas bases para empezar a trabajar con cualquier proyecto que requiera HTML, CSS (SASS), JavaScript Vanilla y Firebase.
+Actualmente estoy trabajando mis habilidades en Node.js, Express y MongoDB, para poder especializarme en el MERN stack. Después de meses de trabajo considero que tengo buenas bases para empezar a trabajar con cualquier proyecto que requiera HTML, CSS (Sass), JavaScript, Firebase, React, Redux, styled-components y/o TailwindCSS.
+
+## I'm a Front-End Developer 👨 💻
+
+I'm currently working in my skills with Node.js, Express and MongoDB, to specialize me in the MERN stack. After months of work, I consider that I have the required knowledge to get my first job, working with any of these technologies: HTML, CSS (Sass), JavaScript, Firebase, React, Redux, styled-components and TailwindCSS.
 
 ### Contact
 
 Podes encontrarme en Linkedin o en Twitter, sino, podes enviarme un email. Actualmente estoy buscando trabajo como Jr. Front End (React).
+
+You can find me on my LinkedIn or Twitter, also you can send me an email. Now, I'm looking for my first job as a Jr. Front End (React).
 
 <a href="https://www.linkedin.com/in/francisco-b-5119b3114/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
