@@ -27,6 +27,10 @@ Actualmente estoy trabajando mis habilidades en Node.js, Express y MongoDB, para
 
 I'm currently working in my skills with Node.js, Express and MongoDB, to specialize me in the MERN stack. After months of work, I consider that I have the required knowledge to get my first job, working with any of these technologies: HTML, CSS (Sass), JavaScript, Firebase, React, Redux, styled-components and TailwindCSS.
 
+### Portfolio
+
+Here is my portfolio: franbeccaria.xyz
+
 ### Contact
 
 Podes encontrarme en Linkedin o en Twitter, sino, podes enviarme un email. Actualmente estoy buscando trabajo como Jr. Front End (React).
@@ -41,7 +45,7 @@ You can find me on my LinkedIn or Twitter, also you can send me an email. Now, I
 
 ✉️ fbeccaria24@gmail.com
 
-🌐 franciscobeccaria.com
+🌐 franbeccaria.xyz
 
 
 
