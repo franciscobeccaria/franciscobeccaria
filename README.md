@@ -31,6 +31,8 @@ I'm currently working in my skills with Node.js, Express and MongoDB, to special
 
 Here is my portfolio: franbeccaria.xyz
 
+<a href="franbeccaria.xyz" target="_blank">franbeccaria.xyz</a>
+
 ### Contact
 
 Podes encontrarme en Linkedin o en Twitter, sino, podes enviarme un email. Actualmente estoy buscando trabajo como Jr. Front End (React).
