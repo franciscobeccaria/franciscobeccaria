@@ -29,7 +29,7 @@ I'm currently working in my skills with Node.js, Express and MongoDB, to special
 
 ### Portfolio
 
-Here is my portfolio: <a href="https://franbeccaria.xyz/" target="_blank">franbeccaria.xyz</a>
+Here is my portfolio: <a href="https://franbeccaria.com/" target="_blank">franbeccaria.com</a>
 
 ### Contact
 
