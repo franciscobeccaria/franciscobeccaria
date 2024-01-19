@@ -8,8 +8,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23748074?logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-%23694640?logo=figma&logoColor=white)
 
-<div style="text-align:center"><img src="./Background_github.jpg" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
-
 <!--## Skills ⚙️
 * HTML
 * CSS (Sass)
