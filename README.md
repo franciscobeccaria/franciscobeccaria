@@ -46,8 +46,6 @@ Here is my portfolio: <a href="https://franbeccaria.com/" target="_blank">franbe
 
 ✉️ fbeccaria24@gmail.com
 
-🌐 <a href="https://franbeccaria.xyz/" target="_blank">franbeccaria.xyz</a>
-
 
 
 
