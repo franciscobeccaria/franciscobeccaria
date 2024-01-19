@@ -1,4 +1,4 @@
-# Hola, Soy Francisco Beccaria! 👋
+# Hi, I am Francisco Beccaria! 👋
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=yellow)
 ![Sass](https://img.shields.io/badge/-Sass-%23748074?logo=sass&logoColor=C56394)
 ![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=9cf)
