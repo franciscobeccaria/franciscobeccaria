@@ -16,36 +16,9 @@
 * Firebase
 * npm/yarn-->
 
-## I'm a Front-End Developer 👨 💻
-
-I'm Francisco, a dedicated Frontend Developer with 3 years of experience. My expertise focuses on turning complex business needs into user-friendly solutions.
-
-My core expertise is based on building web applications using ReactJS and NextJS. My familiarity with these technologies is supported by a significant understanding in:
-
-- HTML: Emphasis on Semantic Markup, Accessibility, SEO
-- CSS: Experience with TailwindCSS, Sass, BEM, Responsive Design, shadcn/ui
-- JavaScript: Skilled in ReactJS, NextJS, TypeScript, Redux, Context, React Query
-
-Additionally, I have experience working with Storybook, ESLint + Prettier, Firebase, Vanilla JavaScript, Ruby on Rails with StimulusJS and Shopify Themes.
-
-Results-oriented and skilled in analytics, I tackle challenges effectively, ensuring goals are met with creativity and efficiency.
-
-English language skills: Upper Intermediate (B2).
-
-### Portfolio
-
 Here is my portfolio: <a href="https://franbeccaria.com/" target="_blank">franbeccaria.com</a>
 
-### Contact
-
-<a href="https://www.linkedin.com/in/francisco-b-5119b3114/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
-
-<!-- <a href="mailto:conchaasensiomr@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> -->
-
 ✉️ fbeccaria24@gmail.com
-
-
-
 
 <!--
 **franciscobeccaria/franciscobeccaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
